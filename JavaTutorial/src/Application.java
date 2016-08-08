@@ -7,6 +7,8 @@ public class Application {
 			System.out.println("Hello World");
 			
 			System.out.println("Learning Java Tutorial");
+			
+			System.out.println("Test line 2");                                                                                                      
 	}
 
 }
